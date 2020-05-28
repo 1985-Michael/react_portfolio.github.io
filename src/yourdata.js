@@ -17,7 +17,7 @@ export default {
 
     {
       id: 2,
-      title: 'Would You Rather',
+      title: 'Would u Rather',
       imageSrc: 'https://i.ibb.co/GkJP1JK/five.png',
       url: 'https://would--you--rather.herokuapp.com/',
     },
@@ -30,5 +30,11 @@ export default {
     },
   ],
 
-  social: [{ name: 'Github', url: 'https://github.com/1985-Michael' }],
+  social: [
+    { name: 'Github', url: 'https://github.com/1985-Michael' },
+    {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/michael-anthony-myers-34115bab/',
+    },
+  ],
 };
